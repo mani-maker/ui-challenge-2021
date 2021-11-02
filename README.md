@@ -6,7 +6,7 @@
 
 * Your coding challenge prompt was provided by the recruiter
 
-* Once complete, push your code and provide the recruiter with the link within 72 hours of receiving this challenge
+* Once complete, push your code and submit a PR to main within 72 hours of receiving this challenge
 
 ## General Guidelines
 
