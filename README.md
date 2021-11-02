@@ -20,14 +20,13 @@ f) Optional: Create 2 tests, one that validates your data fetching outcome and a
 
 * Fork this repo to get started
 
-* Your code challenge prompt was provided by the recruiter
+* Time box this challenge to no more than 2-3 hours and submit what you have. **We urge you not to spend more time on this task**
 
 * Once complete, push your code to your forked repo then submit a PR to main within 72 hours of receiving this challenge
 
 ## General Guidelines
 
-* Time box this challenge to no more than 2-3 hours and submit what you have. **We urge you not to spend more time on this task**
+* We encourage you to use create-react-app for your boilerplate to hit the ground running
 
 * We don't expect a fully styled component. Please apply the minimal styles needed to make this presentable
 
-* We encourage you to use create-react-app for your boilerplate to hit the ground running
